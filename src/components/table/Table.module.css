@@ -1,0 +1,35 @@
+.table-wrapper {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.table-wrapper .table-styles {
+    width: inherit;
+    background-color: rgb(134, 200, 238);
+}
+
+.table-wrapper .table-styles thead {
+    background-color: rgb(59, 148, 226);
+}
+.table-wrapper .table-styles thead th{
+    color: azure;
+    text-align: left;
+    font-size: 21px;
+    font-weight: 700;
+}
+.table-wrapper .table-styles tbody tr td button {
+    width: 90px;
+    color: rgb(0, 224, 37);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px;
+    border: 2px solid rgb(0, 224, 37);
+    border-radius: 6px;
+    transition: cursor 200ms, border 800ms, background-color 800ms, color 900ms;
+}
+.table-wrapper .table-styles tbody tr td button:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(0, 224, 37);
+    border: 2px solid #fff;
+}

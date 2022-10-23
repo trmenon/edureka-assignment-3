@@ -1,0 +1,30 @@
+.navbar {
+    padding: 10px 10px 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar .app-name {
+    color:azure;
+}
+
+.navbar .nav-links {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.navbar .nav-link-element {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.navbar .nav-link-element:hover {
+    cursor: pointer;
+}
+
+.navbar .nav-link-active {
+    border-bottom: 1px solid #ececec;
+    transition-duration: 800ms;
+}

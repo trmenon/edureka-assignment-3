@@ -1,0 +1,14 @@
+.app-wrapper {
+    width: 100%;    
+}
+
+.app-wrapper .navbar-wrapper {
+    background-color: #2184d4;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.app-wrapper .main-wrapper {
+    min-height: 480px;
+    margin: 15px 10px 5px 10px;
+}

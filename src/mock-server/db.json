@@ -1,0 +1,137 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "courseName": "Front End Development",
+      "domainName": "Software Engineering",
+      "proficiencyList": [
+        "ReactJS",
+        "AngularJS",
+        "VueJS",
+        "Svelte",
+        "Module Federation"
+      ],
+      "assignee": "Pramod Thakur"
+    },
+    {
+      "id": 2,
+      "courseName": "Back End Development",
+      "domainName": "Software Engineering",
+      "proficiencyList": [
+        "NodeJS",
+        "ExpressJS",
+        "NestJS",
+        "Springboot",
+        "Django",
+        "Flask"
+      ],
+      "assignee": "Jenifer Dsouza"
+    },
+    {
+      "id": 3,
+      "courseName": "DevOps",
+      "domainName": "Software Engineering",
+      "proficiencyList": [
+        "Ansible",
+        "GIT",
+        "Maven",
+        "Nagios",
+        "Docker",
+        "Kubernetes"
+      ],
+      "assignee": "Jenifer Dsouza"
+    },
+    {
+      "id": 4,
+      "courseName": "UI - UX Designs",
+      "domainName": "Software Engineering",
+      "proficiencyList": [
+        "Adobe XD",
+        "Figma",
+        "WCAG",
+        "Responsive Designs",
+        "User Experience Designs"
+      ],
+      "assignee": "Jenifer Dsouza"
+    }
+  ],
+  "enquiries": [
+    {
+      "name": "Tushar Ramdas Menon",
+      "number": "7994361968",
+      "email": "trmenon911@gmail.com",
+      "requestedCourseId": 1,
+      "id": 1
+    },
+    {
+      "name": "Priya Simon",
+      "number": "9898987654",
+      "email": "prisimon@gmail.com",
+      "requestedCourseId": 2,
+      "id": 2
+    },
+    {
+      "name": "Priya Simon",
+      "number": "9898987654",
+      "email": "prisimon@gmail.com",
+      "requestedCourseId": 4,
+      "id": 3
+    },
+    {
+      "name": "Ashwin Ashok",
+      "number": "9090909090",
+      "email": "aashok@gmail.com",
+      "requestedCourseId": 2,
+      "id": 4
+    },
+    {
+      "name": "Sufail Mohammed",
+      "number": "8989890112",
+      "email": "sufmohammed@gmail.com",
+      "requestedCourseId": 3,
+      "id": 5
+    },
+    {
+      "name": "Jobin Joice",
+      "number": "1234567890",
+      "email": "jj@yahoo.in",
+      "requestedCourseId": 3,
+      "id": 6
+    },
+    {
+      "name": "Radhike Themmalu",
+      "number": "3456098712",
+      "email": "rt@msn.com",
+      "requestedCourseId": 4,
+      "id": 7
+    },
+    {
+      "name": "Janki Ram",
+      "number": "3656530098",
+      "email": "janakiram@yahoo.us",
+      "requestedCourseId": 3,
+      "id": 8
+    },
+    {
+      "name": "Reshmi R Menon",
+      "number": "8954432109",
+      "email": "rrm@google.com",
+      "requestedCourseId": 1,
+      "id": 9
+    },
+    {
+      "name": "Piya Pulli",
+      "number": "9038700000",
+      "email": "ppulli@rediffmail.com",
+      "requestedCourseId": 1,
+      "id": 10
+    },
+    {
+      "name": "Selma heyes",
+      "number": "9847081234",
+      "email": "selhey@eye.pux",
+      "requestedCourseId": 1,
+      "id": 11
+    }
+  ]
+}

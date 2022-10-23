@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://localhost:5050",
+    "methodTypes": {
+        "GET": "get",
+        "POST": "post",
+        "PUT": "put",
+        "DELETE": "delete",
+        "PATCH": "patch"
+    }
+}
